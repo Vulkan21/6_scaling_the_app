@@ -1,0 +1,11 @@
+counter-deploy/
+__pycache__/
+*.pyc
+*.pyo
+*.tar
+*.html
+results_*.csv
+report_*.html
+.DS_Store
+*.swp
+*~
